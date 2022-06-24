@@ -2,4 +2,4 @@
 
 TBD.
 
-Adicionar cypres.env.json
+Adicionar cypress.env.json
