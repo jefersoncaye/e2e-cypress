@@ -6,6 +6,9 @@ module.exports = defineConfig({
       defaultCommandTimeout: 10000,
       requestTimeout: 10000,
       chromeWebSecurity: false,
-      experimentalSessionAndOrigin: true
+      experimentalSessionAndOrigin: true,
+      "env": {
+        "viewportWidthBreakpoint": 768
+      },
   },
 });
